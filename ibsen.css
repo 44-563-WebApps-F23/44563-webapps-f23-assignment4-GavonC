@@ -1,0 +1,25 @@
+.speech{
+    Color: Black;
+    font-size: small;
+    font: serif;
+}
+.direction{
+    color: black;
+    font-size:medium;
+    font: sans-serif;
+    background-color: white;
+
+}
+.direction a:hover{
+    background-color: black;
+    color: green;
+}
+.DrS{
+color:black
+}
+.Petra{
+    color:red
+}
+.horster{
+    color:Blue 
+}
