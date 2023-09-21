@@ -26,3 +26,9 @@ color:black
 .horster{
     color:Blue 
 }
+.table{
+    border: 1px solid #111;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: white;
+}
